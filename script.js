@@ -11,8 +11,8 @@ function staticLoadPlaces() {
         {
             name: 'Pokèmon',
             location: {
-                lat: -17.8888503,
-                lng: -41.5015708,
+                lat: -17.8889275,
+                lng: -41.5014759,
             },
         },
     ];
@@ -21,7 +21,7 @@ function staticLoadPlaces() {
 var models = [
     {
         url: './assets/totoro/scene.gltf',
-        scale: '0.5 0.5 0.5',
+        scale: '15 15 15',
         info: 'Studo Ghibli - made with s2 for Elua',
         rotation: '0 180 0',
     },
